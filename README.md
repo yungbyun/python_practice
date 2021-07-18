@@ -2,7 +2,7 @@
 
 > 사실 복잡한데, 그냥 간단히 줄여서 표현하는 거 – Abstraction 추상화 -> 뭐를 추상화? 코드를 추상화 -> 코드 추상화 -> 하면 무엇이 만들어지> 나? 함수라고 한다.
 
-
+```
 def show_msg():
     print('Hello,World!')
     print('Hello,World!')
@@ -13,7 +13,7 @@ def show_msg():
 
 show_msg()
 print('The End!')
-
+```
 
 파이썬에서는 변수를 언제 만들까? [정답] 값을 할당할 때
 
